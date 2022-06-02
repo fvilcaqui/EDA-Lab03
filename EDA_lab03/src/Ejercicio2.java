@@ -15,7 +15,7 @@ public class Ejercicio2 {
 		//utilizaremos el metodo "search" para buscar la posicion de un elemento;
 		System.out.println("La posicion del elemento 23 es: " + pila.search(23));
 		
-		//En caso que no exista el elemento
+		//En caso que no exista el elemento colocara -1
 		System.out.println("La posicion del elemento 58 es: " + pila.search(58));
 
 		//utilizaremos el metodo "peek" para ver el ultimo valor de nuestra pila

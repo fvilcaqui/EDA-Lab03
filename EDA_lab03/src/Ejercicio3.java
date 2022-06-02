@@ -7,7 +7,6 @@ public class Ejercicio3 {
 		
 		//Ingresamos los valores de la cola
 		for(int i=1; i<8; i++) {
-			
 			//Este metodo inserta un elemento a la cola con el metodo "offer"
 			cola.offer(i);
 		}

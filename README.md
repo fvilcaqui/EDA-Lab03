@@ -33,7 +33,7 @@
 <td>NÚMERO DE PRÁCTICA:</td><td>02</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td>
 </tr>
 <tr>
-<td>FECHA INICIO::</td><td>01-Junio-2022</td><td>FECHA FIN:</td><td>-2022</td><td>DURACIÓN:</td>05-Junio-2022<td>02 horas</td>
+<td>FECHA INICIO::</td><td>01-Junio-2022</td><td>FECHA FIN:</td><4td>5-Junio-2022</td><td>DURACIÓN:</td><td>02 horas</td>
 </tr>
 <tr><td colspan="6">RECURSOS:
 </td>
@@ -58,12 +58,24 @@
 #
 
 ## I. SOLUCION DE EJERCICIOS/PROBLEMAS
+   EJERCICIO 1:
+   EJERCICIO 2:
+   EJERCICIO 3:
 
 
 ## II. SOLUCION DEL CUESTIONARIO
 
+¿Qué similitudes hay entre una Lista Enlazada y una Pila?
 
-## III. CONCLUSION
+  - En ambos casos se pueden llenar los valores con distintos tipos de variables, de manera
+    secuencial y donde el limite vendria a ser el espacio de tu dispositivo.
+    
+¿En que casos seria favorable/desfavorable utilizar Pila/Cola?
+   - El uso de esos metodos nos ayudaria sobretodo cuando vayamos a trabajar con datos ordenados,
+     donde estrictamente es necesario usar a partir de los extremos, ya que no podemos utilizar los 
+     datos que se encuentran el medio.
+   - Individualmente para su uso la pila es mejor usar cuando el paradigma es In-First-Out(LIFO) y 
+      una cola cuando es al reves First-in-First-Out (FIFO).
 
 
 #

@@ -24,8 +24,8 @@ public class Ejercicio1 {
 	
 	//Con este metodo las pilas tendran los mismos valores
 	public static void equalStacks(Stack a, Stack b, Stack c,int d,int e,int f) {
-		int vi1=d,vi2=e,vi3=f;
-		for(;(0<d && 0<e && 0 <f) || (d==e && e==f);) {
+		int vi1=d,vi2=e,vi3=f; //Guardamos los primeros valores para utilizarlos luego
+		while((0<d && 0<e && 0 <f) || (d==e && e==f)) { 
 			if(d>e || d>f) {
 	              d = d - (int)a.pop(); 
 			}else if(e>d || e>f) {
